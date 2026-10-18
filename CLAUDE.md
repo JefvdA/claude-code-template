@@ -53,4 +53,4 @@ _Fill in when the stack is chosen._
 - Format + lint: `scripts/format.sh`
 - Fast tests: `scripts/test-fast.sh`
 - Full tests: TBD
-- Feature flag config: TBD (see `.claude/rules/feature-flags.md`)
+- Feature flags: location and usage in `.claude/rules/feature-flags.md`
